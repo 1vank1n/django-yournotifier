@@ -1,6 +1,6 @@
 from setuptools import setup
 
-with open('README.md', 'r') as f:
+with open(README.rst, r) as f:
     long_description = f.read()
 
 setup(
@@ -17,7 +17,6 @@ setup(
     description='A simple integration for use yournotifier.com',
     keywords='django yournotifier',
     long_description=long_description,
-    long_description_content_type='text/markdown',
     install_requires=[
         'requests==2.19.1',
     ],

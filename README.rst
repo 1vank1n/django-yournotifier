@@ -11,7 +11,7 @@ Quick start
 
 2. Use
 
-Create account at [YourNotifier](https://yournotifier.com>)
+Create account at `YourNotifier <https://yournotifier.com>`_
 
 Add in `settings.py`:
 
