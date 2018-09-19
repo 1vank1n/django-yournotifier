@@ -1,0 +1,4 @@
+.env/
+*.pyc
+dist/
+django_yournotifier.egg-info/
