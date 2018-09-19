@@ -1,11 +1,11 @@
 from setuptools import setup
 
-with open(README.rst, r) as f:
+with open('README.rst', 'r') as f:
     long_description = f.read()
 
 setup(
     name='django-yournotifier',
-    version='1.0.0',
+    version='1.0.1',
     author='Ivan Lukyanets',
     author_email='lukyanets.ivan@gmail.com',
     url='https://github.com/1vank1n/django-yournotifier',
