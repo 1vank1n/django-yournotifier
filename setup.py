@@ -18,7 +18,7 @@ setup(
     keywords='django yournotifier',
     long_description=long_description,
     install_requires=[
-        'requests==2.19.1',
+        'requests==2.20.0',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
